@@ -11409,7 +11409,7 @@ pre .code {
 }
 
 .navbar .nav-link.active {
-  color: #F85C70 !important;
+  color: #20B3F9 !important;
 }
 
 .navbar .brand {
@@ -11765,6 +11765,9 @@ section .section-title {
 }
 .text-coruni{
   color: #20B3F9;
+}
+.bg-black{
+  background-color: #030404 !important;
 }
 
 @media (max-width:767px){

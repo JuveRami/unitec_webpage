@@ -11768,6 +11768,7 @@ section .section-title {
 }
 .bg-black{
   background-color: #030404 !important;
+  opacity: 0.6;
 }
 
 @media (max-width:767px){

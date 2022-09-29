@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.722" height="44" viewBox="0 0 53.722 44">
+  <g id="Graduation_Stage" data-name="Graduation Stage" transform="translate(0 -5.649)">
+    <g id="Group_4" data-name="Group 4" transform="translate(6.715 6)">
+      <rect id="Rectangle_475" data-name="Rectangle 475" width="14" height="8" rx="1" transform="translate(28.285 -0.351)" fill="#f2ee90"/>
+      <rect id="Rectangle_476" data-name="Rectangle 476" width="10" height="24" rx="1" transform="translate(15.285 19.649)" fill="#f2ee90"/>
+      <rect id="Rectangle_477" data-name="Rectangle 477" width="10" height="15" rx="1" transform="translate(0.285 28.649)" fill="#f2ee90"/>
+      <rect id="Rectangle_478" data-name="Rectangle 478" width="10" height="32" rx="1" transform="translate(30.285 11.649)" fill="#f2ee90"/>
+    </g>
+    <path id="Path_138" data-name="Path 138" d="M52.883,57.679H.839A.839.839,0,1,1,.839,56H52.883a.839.839,0,0,1,0,1.679Z" transform="translate(0 -8.03)" fill="#fbf437"/>
+    <path id="Path_139" data-name="Path 139" d="M37.839,16.912A.839.839,0,0,1,37,16.073V6.839A.839.839,0,0,1,37.839,6H57.985a.839.839,0,0,1,0,1.679H38.679v8.394A.839.839,0,0,1,37.839,16.912Z" transform="translate(-5.942 0)" fill="#fbf437"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="2.5" cy="2.5" r="2.5" transform="translate(29 15.649)" fill="#fbf437"/>
+  </g>
+</svg>

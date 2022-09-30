@@ -11887,7 +11887,6 @@ color: #f5f5f5 !important;
 
 }
 .logo-part {
-/* border-left: 1px solid grey; */
 height: 100%;
 }
 .footer2--logo {
@@ -11902,10 +11901,5 @@ height: 100%;
 .footer--link img {
   margin-right: 0.5rem;
 }
-
-/* .footer2--logo img:nth-child(3) {
-  width: 10rem;
-  margin-bottom: 2rem;
-} */
 
 

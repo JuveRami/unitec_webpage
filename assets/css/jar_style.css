@@ -11781,6 +11781,22 @@ section .section-title {
     opacity: 0.6 !important;
 }
 
+.bg-black1{
+  background-color: #0f121282 !important;
+    /* IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+
+    /* IE 5-7 */
+    filter: alpha(opacity=50);
+  
+    /* Netscape */
+    -moz-opacity: 0.5 !important;
+  
+    /* Safari 1.x */
+    -khtml-opacity: 0.5 !important;
+    opacity: 0.6 !important;
+}
+
 @media (max-width:767px){
 	#footer h5 {
     padding-left: 0;
@@ -11901,11 +11917,14 @@ height: 100%;
 .footer--link img {
   margin-right: 0.5rem;
 }
+/* .footer--link {
+  color:#fff;
+} */
 
 #particles-js {
   position: absolute;
-  /* width: 100%; */
-  height: calc(120vh - 320px);
+  width: 100%;
+  height: calc(210vh - 510px);
 	/* background:#00f */
 }
 #particles-js2 {

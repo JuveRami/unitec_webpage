@@ -11778,7 +11778,7 @@ section .section-title {
   
     /* Safari 1.x */
     -khtml-opacity: 0.5 !important;
-    opacity: 1.9 !important;
+    opacity: 0.8 !important;
 }
 
 .bg-black1{

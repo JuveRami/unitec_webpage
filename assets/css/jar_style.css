@@ -11766,7 +11766,7 @@ section .section-title {
   color: #20B3F9;
 }
 .bg-black{
-  background-color: #030404 !important;
+  background-color: #03040475 !important;
     /* IE 8 */
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 
@@ -11917,9 +11917,9 @@ height: 100%;
 .footer--link img {
   margin-right: 0.5rem;
 }
-/* .footer--link {
+.footer--link {
   color:#fff;
-} */
+}
 
 #particles-js {
   position: absolute;

@@ -18,7 +18,7 @@ particlesJS("particles-js", {
           "color": "#404142"
         },
         "polygon": {
-          "nb_sides": 5
+          "nb_sides": 3
         },
       },
       "opacity": {
@@ -32,7 +32,7 @@ particlesJS("particles-js", {
         }
       },
       "size": {
-        "value": 3,
+        "value": 4,
         "random": true,
         "anim": {
           "enable": false,

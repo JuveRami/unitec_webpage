@@ -11766,7 +11766,7 @@ section .section-title {
   color: #20B3F9;
 }
 .bg-black{
-  background-color: #03040475 !important;
+  background-color: #03040445 !important;
     /* IE 8 */
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 
@@ -11778,11 +11778,11 @@ section .section-title {
   
     /* Safari 1.x */
     -khtml-opacity: 0.5 !important;
-    opacity: 0.6 !important;
+    opacity: 1.9 !important;
 }
 
 .bg-black1{
-  background-color: #0f121282 !important;
+  background-color: #0304043b !important;
     /* IE 8 */
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 

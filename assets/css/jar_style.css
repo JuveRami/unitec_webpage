@@ -5053,6 +5053,7 @@ input[type="button"].btn-block {
       -ms-flex-direction: column;
           flex-direction: column;
   min-width: 0;
+  
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
@@ -5080,6 +5081,7 @@ input[type="button"].btn-block {
   -webkit-flex: 1 1 auto;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
+  min-height: 350px;
   padding: 1.25rem;
 }
 
@@ -11934,6 +11936,16 @@ height: 100%;
 	/* background:#00f */
 }
 
+@media (max-width: 565px) {
+  .card-body {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+    max-height: auto;
+    padding: 1.25rem;
+  }
+}
 
 
 

@@ -8,7 +8,8 @@
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i&display=swap");
+/* @import url("https://fonts.googleapis.com/css?family=Montserrat"); */
+@import url('http://fonts.cdnfonts.com/css/montserrat');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 :root {
   --blue: #79A9F5;
@@ -60,7 +61,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Montserrat";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;

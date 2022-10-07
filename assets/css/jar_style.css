@@ -5082,7 +5082,7 @@ input[type="button"].btn-block {
   -webkit-flex: 1 1 auto;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
-  min-height: 350px;
+  min-height: 374px;
   padding: 1.25rem;
 }
 
@@ -11952,7 +11952,6 @@ height: 100%;
   }
 }
 
-
 iframe {
   position: absolute;
   top: 0;
@@ -11961,3 +11960,7 @@ iframe {
   height: 100%;
 }
 
+.hh {
+  line-height: 2;
+  margin-bottom: 0.7rem;
+}

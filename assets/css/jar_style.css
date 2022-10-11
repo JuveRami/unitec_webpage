@@ -11076,10 +11076,10 @@ p {
 }
 
 .card .card-header.has-icon i {
-  background: #fff;
+  background: transparent;
   position: absolute;
   top: -28px;
-  border: 7px solid white;
+  border: 7px solid transparent;
   overflow: hidden !important;
   font-size: 35px;
 }
@@ -11412,7 +11412,7 @@ pre .code {
 }
 
 .navbar .nav-link.active {
-  color: #20B3F9 !important;
+  color: #b39438 !important;
 }
 
 .navbar .brand {
@@ -11513,8 +11513,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/img2.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/img2.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(../imgs/img2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11645,7 +11645,7 @@ pre .code {
 
 .contact {
   position: relative;
-  min-height: 700px;
+  min-height: 300px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -11772,10 +11772,11 @@ section .section-title {
     font-weight: 700;
 }
 .text-coruni{
-  color: #20B3F9;
+  color: #b39438;
+  /* color: #20B3F9; .navbar .nav-link.active*/
 }
 .bg-black{
-  background-color: #03040445 !important;
+  background-color: #001236 !important;
     /* IE 8 */
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 
@@ -11787,7 +11788,7 @@ section .section-title {
   
     /* Safari 1.x */
     -khtml-opacity: 0.5 !important;
-    opacity: 0.78 !important;
+    /* opacity: 0.78 !important; */
 }
 
 .bg-black1{
@@ -11909,7 +11910,8 @@ text-decoration:none;
 }
 a:hover {
 text-decoration: none;
-color: #20b3f9b8 !important;
+color: #b39438 !important;
+/* color: #20b3f9b8 !important; */
 
 }
 .logo-part {
@@ -11985,5 +11987,5 @@ iframe {
 }
 
 .link-rodape a:hover{
-	color:#eeeeee !important;
+	color:#001236 !important;
 }

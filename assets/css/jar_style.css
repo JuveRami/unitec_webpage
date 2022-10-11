@@ -11412,7 +11412,7 @@ pre .code {
 }
 
 .navbar .nav-link.active {
-  color: #b39438 !important;
+  color: #876722 !important;
 }
 
 .navbar .brand {
@@ -11922,10 +11922,15 @@ height: 100%;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+ 
 }
 .footer2--logo img {
   width: 6rem;
   height: auto;
+  /* margin: 10px; */
+}
+.unispace{
+  margin-top:18px;
 }
 .footer--link img {
   margin-right: 0.5rem;

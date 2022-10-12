@@ -5281,6 +5281,7 @@ input[type="button"].btn-block {
   margin-bottom: 0.75rem;
 }
 
+
 @media (min-width: 576px) {
   .card-columns {
     -webkit-column-count: 3;
@@ -11978,6 +11979,19 @@ height: 100%;
   }
 }
 
+@media (max-width: 576px) {
+  /* small dev */
+  .smalltext{
+    font-size: 1.2rem !important;
+    line-height: 1.2;
+  }
+
+  .smalltext2{
+    font-size: 1rem !important;
+    line-height: 1.2;
+  }
+}
+
 iframe {
   position: absolute;
   top: 0;
@@ -11995,6 +12009,10 @@ iframe {
 	color:#001236 !important;
 }
 
+.logotipo img{
+  width: 92px;
+  height: 30px;
+}
 /* .grow {
   height: 59px; */
   /* width: 22%; */

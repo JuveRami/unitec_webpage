@@ -5082,7 +5082,7 @@ input[type="button"].btn-block {
   -webkit-flex: 1 1 auto;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
-  min-height: 374px;
+  min-height: 304px;
   padding: 1.25rem;
 }
 
@@ -11994,3 +11994,16 @@ iframe {
 .link-rodape a:hover{
 	color:#001236 !important;
 }
+
+/* .grow {
+  height: 59px; */
+  /* width: 22%; */
+  /* position: relative; */
+  /* transition: height 0.5s;
+  -webkit-transition: height 0.5s; */
+  /* text-align: center; */
+  /* overflow: hidden;
+}
+.grow:hover {
+  height: 305px;
+} */

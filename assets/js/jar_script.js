@@ -31,6 +31,22 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function () {
+
+    // $("p").hide();
+
+    // $("#btn1").click(function(){
+    //     $("#p1").toggle();
+    // });
+
+    // $("#btn2").click(function(){
+    //     $("#p2").toggle();
+    // });
+
+    // $("#btn2").click(function(){
+    //     $("#p2").toggle();
+    // });
+  });
 // protfolio filters
 $(window).on("load", function() {
     var t = $(".portfolio-container");

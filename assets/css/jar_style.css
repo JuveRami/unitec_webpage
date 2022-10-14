@@ -11992,19 +11992,17 @@ height: 100%;
     font-size: 1.1rem !important;
     line-height: 1.2;
   }
-
-  
   .header {
     position: relative;
     height: 75vh;
     min-height: 500px;
-    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url(../imgs/img2.jpg);
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(../imgs/img2.jpg);
+    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url(../imgs/img2.png);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4)), url(../imgs/img2.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: center;
+    background-position: 30% 10% ;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #fff;

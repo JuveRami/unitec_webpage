@@ -45,7 +45,7 @@ $(document).ready(function(){
   });
 });
 
-$("#unitec").fadeIn();
+
 
 
 $(document).ready(function () {

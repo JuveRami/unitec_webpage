@@ -11977,9 +11977,6 @@ height: 100%;
     max-height: auto;
     padding: 1.25rem;
   }
-}
-
-@media (max-width: 576px) {
   /* small dev */
   .smalltext{
     font-size: 1.2rem !important;
@@ -11987,6 +11984,11 @@ height: 100%;
   }
 
   .smalltext2{
+    font-size: 1rem !important;
+    line-height: 1.2;
+  }
+
+  .smallh5{
     font-size: 1rem !important;
     line-height: 1.2;
   }
